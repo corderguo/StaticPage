@@ -2,7 +2,9 @@
 //  AppDelegate.m
 //  ICStaticPageExample
 //
-//  Created by 郭现壮 on 16/6/28.
+// github地址:https://github.com/corderguo/StaticPage
+//
+//  Created by Mr.Guo on 15/5/28.
 //  Copyright © 2016年 XianZhuangGuo. All rights reserved.
 //
 
