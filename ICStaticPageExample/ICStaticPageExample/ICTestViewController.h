@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ICTestViewController.h
 //  ICStaticPageExample
 //
 //  Created by 郭现壮 on 16/6/28.
@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ICTestViewController : UIViewController
 
+@property (nonatomic, copy) NSString *titleName;
 
 @end
-

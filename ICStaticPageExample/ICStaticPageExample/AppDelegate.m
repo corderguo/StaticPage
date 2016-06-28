@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "ICTableViewController.h"
 
 @interface AppDelegate ()
 
@@ -17,6 +18,16 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    self.window                    = [[UIWindow alloc] init];
+    self.window.frame              = [UIScreen mainScreen].bounds;
+    
+    ICTableViewController *tableVC = [[ICTableViewController alloc] init];
+    UINavigationController *nav    = [[UINavigationController alloc] initWithRootViewController:tableVC];
+    self.window.rootViewController = nav;
+    
+    [self.window makeKeyAndVisible];
+    
     return YES;
 }
 

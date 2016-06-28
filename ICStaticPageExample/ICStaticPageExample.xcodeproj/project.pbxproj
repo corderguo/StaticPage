@@ -8,24 +8,47 @@
 
 /* Begin PBXBuildFile section */
 		5F272CBE1D22823C0017155D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F272CBD1D22823C0017155D /* main.m */; };
-		5F272CC11D22823C0017155D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F272CC01D22823C0017155D /* AppDelegate.m */; };
-		5F272CC41D22823C0017155D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F272CC31D22823C0017155D /* ViewController.m */; };
-		5F272CC71D22823C0017155D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F272CC51D22823C0017155D /* Main.storyboard */; };
 		5F272CC91D22823C0017155D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F272CC81D22823C0017155D /* Assets.xcassets */; };
 		5F272CCC1D22823C0017155D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F272CCA1D22823C0017155D /* LaunchScreen.storyboard */; };
+		5F272CE21D2284020017155D /* App_rightArrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F272CD41D2284020017155D /* App_rightArrow@2x.png */; };
+		5F272CE31D2284020017155D /* App_rightArrow@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F272CD51D2284020017155D /* App_rightArrow@3x.png */; };
+		5F272CE41D2284020017155D /* ICCommonGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F272CD71D2284020017155D /* ICCommonGroup.m */; };
+		5F272CE51D2284020017155D /* ICCommonItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F272CD91D2284020017155D /* ICCommonItem.m */; };
+		5F272CE61D2284020017155D /* ICCommonItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F272CDB1D2284020017155D /* ICCommonItemCell.m */; };
+		5F272CE71D2284020017155D /* ICSettingArrowItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F272CDD1D2284020017155D /* ICSettingArrowItem.m */; };
+		5F272CE81D2284020017155D /* ICSettingNoneItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F272CDF1D2284020017155D /* ICSettingNoneItem.m */; };
+		5F272CE91D2284020017155D /* ICSettingSwitchItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F272CE11D2284020017155D /* ICSettingSwitchItem.m */; };
+		5F272CEE1D2284170017155D /* ICTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F272CEB1D2284170017155D /* ICTableViewController.m */; };
+		5F272CEF1D2284170017155D /* ICTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F272CED1D2284170017155D /* ICTestViewController.m */; };
+		5F272CF51D2284B40017155D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F272CF41D2284B40017155D /* AppDelegate.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5F272CB91D22823C0017155D /* ICStaticPageExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ICStaticPageExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F272CBD1D22823C0017155D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		5F272CBF1D22823C0017155D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		5F272CC01D22823C0017155D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		5F272CC21D22823C0017155D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		5F272CC31D22823C0017155D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		5F272CC61D22823C0017155D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5F272CC81D22823C0017155D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5F272CCB1D22823C0017155D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5F272CCD1D22823C0017155D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5F272CD41D2284020017155D /* App_rightArrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App_rightArrow@2x.png"; sourceTree = "<group>"; };
+		5F272CD51D2284020017155D /* App_rightArrow@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App_rightArrow@3x.png"; sourceTree = "<group>"; };
+		5F272CD61D2284020017155D /* ICCommonGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICCommonGroup.h; sourceTree = "<group>"; };
+		5F272CD71D2284020017155D /* ICCommonGroup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICCommonGroup.m; sourceTree = "<group>"; };
+		5F272CD81D2284020017155D /* ICCommonItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICCommonItem.h; sourceTree = "<group>"; };
+		5F272CD91D2284020017155D /* ICCommonItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICCommonItem.m; sourceTree = "<group>"; };
+		5F272CDA1D2284020017155D /* ICCommonItemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICCommonItemCell.h; sourceTree = "<group>"; };
+		5F272CDB1D2284020017155D /* ICCommonItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICCommonItemCell.m; sourceTree = "<group>"; };
+		5F272CDC1D2284020017155D /* ICSettingArrowItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICSettingArrowItem.h; sourceTree = "<group>"; };
+		5F272CDD1D2284020017155D /* ICSettingArrowItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICSettingArrowItem.m; sourceTree = "<group>"; };
+		5F272CDE1D2284020017155D /* ICSettingNoneItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICSettingNoneItem.h; sourceTree = "<group>"; };
+		5F272CDF1D2284020017155D /* ICSettingNoneItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICSettingNoneItem.m; sourceTree = "<group>"; };
+		5F272CE01D2284020017155D /* ICSettingSwitchItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICSettingSwitchItem.h; sourceTree = "<group>"; };
+		5F272CE11D2284020017155D /* ICSettingSwitchItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICSettingSwitchItem.m; sourceTree = "<group>"; };
+		5F272CEA1D2284170017155D /* ICTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICTableViewController.h; sourceTree = "<group>"; };
+		5F272CEB1D2284170017155D /* ICTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICTableViewController.m; sourceTree = "<group>"; };
+		5F272CEC1D2284170017155D /* ICTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICTestViewController.h; sourceTree = "<group>"; };
+		5F272CED1D2284170017155D /* ICTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICTestViewController.m; sourceTree = "<group>"; };
+		5F272CF31D2284B40017155D /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		5F272CF41D2284B40017155D /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +81,13 @@
 		5F272CBB1D22823C0017155D /* ICStaticPageExample */ = {
 			isa = PBXGroup;
 			children = (
-				5F272CBF1D22823C0017155D /* AppDelegate.h */,
-				5F272CC01D22823C0017155D /* AppDelegate.m */,
-				5F272CC21D22823C0017155D /* ViewController.h */,
-				5F272CC31D22823C0017155D /* ViewController.m */,
-				5F272CC51D22823C0017155D /* Main.storyboard */,
+				5F272CD31D2284020017155D /* StaticPage */,
+				5F272CEA1D2284170017155D /* ICTableViewController.h */,
+				5F272CEB1D2284170017155D /* ICTableViewController.m */,
+				5F272CEC1D2284170017155D /* ICTestViewController.h */,
+				5F272CED1D2284170017155D /* ICTestViewController.m */,
+				5F272CF31D2284B40017155D /* AppDelegate.h */,
+				5F272CF41D2284B40017155D /* AppDelegate.m */,
 				5F272CC81D22823C0017155D /* Assets.xcassets */,
 				5F272CCA1D22823C0017155D /* LaunchScreen.storyboard */,
 				5F272CCD1D22823C0017155D /* Info.plist */,
@@ -77,6 +102,27 @@
 				5F272CBD1D22823C0017155D /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5F272CD31D2284020017155D /* StaticPage */ = {
+			isa = PBXGroup;
+			children = (
+				5F272CD41D2284020017155D /* App_rightArrow@2x.png */,
+				5F272CD51D2284020017155D /* App_rightArrow@3x.png */,
+				5F272CD61D2284020017155D /* ICCommonGroup.h */,
+				5F272CD71D2284020017155D /* ICCommonGroup.m */,
+				5F272CD81D2284020017155D /* ICCommonItem.h */,
+				5F272CD91D2284020017155D /* ICCommonItem.m */,
+				5F272CDA1D2284020017155D /* ICCommonItemCell.h */,
+				5F272CDB1D2284020017155D /* ICCommonItemCell.m */,
+				5F272CDC1D2284020017155D /* ICSettingArrowItem.h */,
+				5F272CDD1D2284020017155D /* ICSettingArrowItem.m */,
+				5F272CDE1D2284020017155D /* ICSettingNoneItem.h */,
+				5F272CDF1D2284020017155D /* ICSettingNoneItem.m */,
+				5F272CE01D2284020017155D /* ICSettingSwitchItem.h */,
+				5F272CE11D2284020017155D /* ICSettingSwitchItem.m */,
+			);
+			path = StaticPage;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,9 +182,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F272CE31D2284020017155D /* App_rightArrow@3x.png in Resources */,
+				5F272CE21D2284020017155D /* App_rightArrow@2x.png in Resources */,
 				5F272CCC1D22823C0017155D /* LaunchScreen.storyboard in Resources */,
 				5F272CC91D22823C0017155D /* Assets.xcassets in Resources */,
-				5F272CC71D22823C0017155D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,23 +196,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5F272CC41D22823C0017155D /* ViewController.m in Sources */,
-				5F272CC11D22823C0017155D /* AppDelegate.m in Sources */,
+				5F272CE61D2284020017155D /* ICCommonItemCell.m in Sources */,
+				5F272CE81D2284020017155D /* ICSettingNoneItem.m in Sources */,
+				5F272CE91D2284020017155D /* ICSettingSwitchItem.m in Sources */,
+				5F272CE51D2284020017155D /* ICCommonItem.m in Sources */,
+				5F272CF51D2284B40017155D /* AppDelegate.m in Sources */,
+				5F272CE41D2284020017155D /* ICCommonGroup.m in Sources */,
+				5F272CEE1D2284170017155D /* ICTableViewController.m in Sources */,
 				5F272CBE1D22823C0017155D /* main.m in Sources */,
+				5F272CEF1D2284170017155D /* ICTestViewController.m in Sources */,
+				5F272CE71D2284020017155D /* ICSettingArrowItem.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		5F272CC51D22823C0017155D /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5F272CC61D22823C0017155D /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		5F272CCA1D22823C0017155D /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -262,7 +308,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = ICStaticPageExample/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = GZ.ICStaticPageExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -274,7 +320,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = ICStaticPageExample/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = GZ.ICStaticPageExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -300,6 +346,7 @@
 				5F272CD21D22823C0017155D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
