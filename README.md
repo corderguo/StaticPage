@@ -3,7 +3,7 @@
 
 更多详情请访问： [骚客](https://corderguo.github.io/2016/06/28/iOS-staticPage/)    	
 
-![](http://img.blog.csdn.net/20160628183730686)  ![](http://img.blog.csdn.net/20160628183800921)     
+![](http://img.blog.csdn.net/20160628183730686)![](http://img.blog.csdn.net/20160628183800921)     
 
 
 # 如何使用StaticPage     
