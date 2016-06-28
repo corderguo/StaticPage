@@ -19,7 +19,7 @@ _tableView = [[UITableView alloc] initWithFrame:CGRectMake(0, 0, self.view.frame
 import "ICCommonItemCell.h"
 ```
 
-然后在你的数据源中根据分组来设置响应的数据，例如demo中的代码:	
+然后在你的数据源中根据分组来设置相应的数据，例如demo中的代码:	
       
 
 ```sh
