@@ -1,4 +1,4 @@
-# StaicPage
+# StaticPage
 - 静态页面大杀器，利用该库三行代码就能搞定通用静态页面          
 
 更多详情请访问： [骚客](https://corderguo.github.io/2016/06/28/iOS-staticPage/)    	
