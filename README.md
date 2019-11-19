@@ -1,9 +1,9 @@
 # StaticPage
 - 静态页面大杀器，利用该库三行代码就能搞定通用静态页面          
 
-更多详情请访问： [骚客](https://corderguo.github.io/2016/06/28/iOS-staticPage/)    	
+更多详情请访问： [骚客](https://github.com/corderguo/corderguo.github.io/blob/master/images/123.png?raw=true)    	
 
-![](http://oet7ffdgt.bkt.clouddn.com/3.jpg) ![](http://oet7ffdgt.bkt.clouddn.com/4.jpg)     
+![](https://github.com/corderguo/corderguo.github.io/blob/master/images/345.png?raw=true)     
 
 
 # 如何使用StaticPage     
