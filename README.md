@@ -1,8 +1,7 @@
 # StaticPage
 - 静态页面大杀器，利用该库三行代码就能搞定通用静态页面          
 
-更多详情请访问： ![](https://github.com/corderguo/corderguo.github.io/blob/master/images/123.png?raw=true)    	
-
+![](https://github.com/corderguo/corderguo.github.io/blob/master/images/123.png?raw=true)
 ![](https://github.com/corderguo/corderguo.github.io/blob/master/images/345.png?raw=true)     
 
 
